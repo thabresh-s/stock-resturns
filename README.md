@@ -2,7 +2,7 @@
 
 A little Streamlit app that charts the seasonal returns of a stock or ETF. 
 
-[ [Demo](https://ranaroussi-seasonality-main-s43qps.streamlit.app/) ]
+[ [Demo](https://thabresh-s-stock-resturns-main-xdaev4.streamlit.app/) ]
 
 The seasonality is based on the monthly cumulative returns of an asset over the years.
 
@@ -13,4 +13,4 @@ The seasonality is based on the monthly cumulative returns of an asset over the 
 - [Altair](https://altair-viz.github.io/)
 - [Streamlit](https://streamlit.io/)
 
-NOT A FINANCIAL ADVICE. USE AT YOUR OWN RISK.
+***NOT A FINANCIAL ADVICE. USE AT YOUR OWN RISK.
