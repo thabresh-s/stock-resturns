@@ -121,7 +121,7 @@ st.markdown("""A little app that charts the seasonal returns of a stock or ETF.
 st.write("***NOT A FINANCIAL ADVICE. USE AT YOUR OWN RISK.")
 st.markdown("""---""")
 
-ticker = st.text_input('Enter the asset ticker (Yahoo! Finance format)', '^GSPC')
+ticker = st.text_input('Enter the asset ticker (Yahoo! Finance format)', '^NSEI')
 
 if not ticker:
     st.error("Please select an asset.")
