@@ -114,6 +114,7 @@ st.set_page_config(page_title="Seasonal stock charts", page_icon='https://img.ic
 st.title("Seasonality stock charting")
 st.markdown("""A little app that charts the seasonal returns of a stock or ETF.
 
+- To check yahoo finance symbols: [yfinance](https://finance.yahoo.com/lookup/)
 - Tools used: [yfinance](https://github.com/ranaroussi/yfinance), [Pandas](https://pandas.pydata.org/), [Altair](https://altair-viz.github.io/), and [Streamlit](https://streamlit.io/)
 """)
 
